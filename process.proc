@@ -1,0 +1,2 @@
+node1: node programs/1.js
+node2: node programs/2.js
